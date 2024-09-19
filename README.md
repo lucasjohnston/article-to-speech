@@ -1,4 +1,4 @@
-# 🎙️ Article to Speech Converter
+# 🎙️ article to speech converter
 
 A small project to convert text articles to speech using Eleven Labs' Text-to-Speech API, producing a single MP3 file – with the option to speed things up, too.
 
